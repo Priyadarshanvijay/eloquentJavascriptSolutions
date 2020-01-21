@@ -1,2 +1,2 @@
 # eloquentJavascriptSolutions
-Solutions of the exercises in between the chapters
+Solutions of the exercises at the end of the chapters
